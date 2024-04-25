@@ -1,6 +1,6 @@
 # Reservoir Computing in Predicting Networks of Coupled Dynamical Systems
 
-Repository containing the source code to produce the analysis of the thesis work. The analysis was run on a Slurm-based computing cluster.
+Repository containing the source code to produce the analysis of the thesis work. The parallel reservoir scheme implementation is based on a [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.164101) by Keshav et. al., and a modified version of [ReservoirPy](https://reservoirpy.readthedocs.io/en/latest/) (v0.2) Python package. The analysis was run on a Slurm-based computing cluster.
 
 This repository contains the essential source code for the most important parts of the analysis, not all data/scripts required to reproduce all the results presented in the thesis are included.
 
