@@ -1,0 +1,5 @@
+tqdm>=4.43.0
+joblib>=0.12
+dill>=0.3.0numpy>=1.15.0
+scipy>=1.0.0
+joblib>=0.12

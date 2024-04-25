@@ -1,0 +1,8 @@
+--system=linked_lorenz
+--N_res=10
+--dt=0.0075
+--N_r=600
+--method=rk45
+--subsys_dim=3
+--test_len=10000
+

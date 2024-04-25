@@ -1,0 +1,8 @@
+--system=kuramoto
+--N_res=30
+--dt=0.02
+--N_r=300
+--method=lsoda
+--subsys_dim=2
+--test_len=10000
+
