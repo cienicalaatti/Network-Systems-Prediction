@@ -2,6 +2,8 @@
 
 Repository containing the source code to produce the analysis of the thesis work. The analysis was run on a Slurm-based computing cluster.
 
+This repository contains the essential source code for the most important parts of the analysis, not all data/scripts required to reproduce all the results presented in the thesis are included.
+
 ### To run the optimise the model and run a prediction:
 (0. set up a Python virtual environment according to [requirements.txt](src/requirements.txt))
 1. Simulate data (notebooks in [src/notebooks_dynamic_systems](src/notebooks_dynamic_systems))
