@@ -11,4 +11,4 @@ Repository containing the source code to produce the analysis of the thesis work
 3. Run prediction:
    1. set prediction parameters ([src/argfiles](src/argfiles))
    2. run prediction in a slurm environment (shared_memory_parallel_run bash script in [src](src))
-4. Visualise results (notebooks in [src/notobooks_analysis](src/notebooks_analysis))
+4. Visualise results (notebooks in [src/notebooks_analysis](src/notebooks_analysis))
